@@ -37,10 +37,8 @@ __BSc in Systems Engineering, Turkish Mil. Academy, Ankara.__
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
-
+Update this part.
 
 
 ## Publications
