@@ -47,13 +47,8 @@ Update this part.
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`2019`
+Bylock chapter
 
 ## Occupation
 
