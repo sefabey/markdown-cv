@@ -37,10 +37,8 @@ __BSc in Systems Engineering, Turkish Mil. Academy, Ankara.__
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
-
+Update this part.
 
 
 ## Publications
@@ -49,13 +47,8 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`2019`
+Bylock chapter
 
 ## Occupation
 
