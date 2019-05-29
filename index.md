@@ -2,7 +2,7 @@
 layout: cv
 title: Sefa CV
 ---
-# Isaac Newton
+# Sefa Ozalp
 Researcher, Data Scientist.
 
 
